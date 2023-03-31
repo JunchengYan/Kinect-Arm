@@ -1,0 +1,25 @@
+﻿  KinectMain.cpp
+f:\kinectcontrol\kinectmain.cpp(412): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+f:\kinectcontrol\kinectmain.cpp(422): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+f:\kinectcontrol\kinectmain.cpp(661): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\kinectcontrol\kinectmain.cpp(668): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\kinectcontrol\kinectmain.cpp(669): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\kinectcontrol\kinectmain.cpp(696): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\kinectcontrol\kinectmain.cpp(697): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\kinectcontrol\kinectmain.cpp(698): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\kinectcontrol\kinectmain.cpp(703): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\kinectcontrol\kinectmain.cpp(710): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\kinectcontrol\kinectmain.cpp(735): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\kinectcontrol\kinectmain.cpp(736): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\kinectcontrol\kinectmain.cpp(737): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\kinectcontrol\kinectmain.cpp(743): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\kinectcontrol\kinectmain.cpp(750): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\kinectcontrol\kinectmain.cpp(767): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\kinectcontrol\kinectmain.cpp(768): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\kinectcontrol\kinectmain.cpp(769): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\kinectcontrol\kinectmain.cpp(772): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\kinectcontrol\kinectmain.cpp(773): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\kinectcontrol\kinectmain.cpp(781): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\kinectcontrol\kinectmain.cpp(787): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\kinectcontrol\kinectmain.cpp(795): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  KinectControl.vcxproj -> F:\KinectControl\x64\Debug\KinectControl.exe
